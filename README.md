@@ -9,8 +9,7 @@
 ## Запуск программы на Python
 Для запуска программы выполните:
 ```bash
-python example.py# -
-[example.py](https://github.com/user-attachments/files/23493608/example.py)
+
 # Простая программа на Python для проверки
 def main():
     print("Hello, World!")
