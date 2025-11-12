@@ -1,7 +1,7 @@
 # Проект: Пример проекта для задания по Git и SystemVerilog
 
 Автор: грановская Екатерина Алексеевна
-Группа: ПИ-123
+Группа: М3О-410Б-22
 
 ## Описание
 Этот проект содержит пример программы на Python и модули на SystemVerilog для APB slave и testbench.
@@ -10,3 +10,10 @@
 Для запуска программы выполните:
 ```bash
 python example.py# -
+[example.py](https://github.com/user-attachments/files/23493608/example.py)
+# Простая программа на Python для проверки
+def main():
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
